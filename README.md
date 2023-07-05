@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I'm Ferny! 👋
 
-<!--
-**FernySepul/FernySepul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with experience in .NET and C#. I love building robust, efficient, and scalable applications. Currently, I'm focused on learning Angular to develop modern web solutions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an enthusiast of software development, always eager to learn new technologies and improve my skills. I enjoy the challenges that come with software development and strive to create scalable and high-quality solutions.
+
+## Contact
+
+If you'd like to get in touch with me or have any questions, you can reach me at:
+
+- Email: fernando1210flores@gmail.com
+- LinkedIn: [Click me ✈](www.linkedin.com/in/juan-fernando-flores-sepúlveda/)
+
+I'm excited to continue growing in my software development career and explore new opportunities and interesting projects! ✨
